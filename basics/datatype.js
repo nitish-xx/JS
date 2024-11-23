@@ -8,7 +8,7 @@ console.log(3+3)
 console.log("Nitish")
 
 
-let name="Nitish"
+let name="nitish"
 let age= 18
 let isloggedeIn= false
 
